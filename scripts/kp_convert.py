@@ -76,6 +76,7 @@ def main():
               f'source: "http://www.naenara.com.kp/{lang}/great/constitution.php"',
               f'archived_source: "{pages[0]["archived_url"]}"',
               f'archived_pages: "{len(pages)} pages, Wayback Machine captures of {pages[0]["timestamp"][:8]}"',
+              "archived_sources:"] + [f'  - "{x["archived_url"]}"' for x in pages] + [
               "publisher: \"Naenara (Foreign Languages Publishing House, DPRK)\""]
         if lang == "en":
             fm.append('note: "English translation as published by Naenara; the Korean text is the original"')

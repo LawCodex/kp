@@ -10,6 +10,22 @@ status: unknown
 source: "http://www.naenara.com.kp/ko/great/constitution.php"
 archived_source: "https://web.archive.org/web/20160923202722/http://www.naenara.com.kp/ko/great/constitution.php?1"
 archived_pages: "15 pages, Wayback Machine captures of 20160923"
+archived_sources:
+  - "https://web.archive.org/web/20160923202722/http://www.naenara.com.kp/ko/great/constitution.php?1"
+  - "https://web.archive.org/web/20160923202744/http://www.naenara.com.kp/ko/great/constitution.php?2"
+  - "https://web.archive.org/web/20160923202804/http://www.naenara.com.kp/ko/great/constitution.php?3"
+  - "https://web.archive.org/web/20160923202826/http://www.naenara.com.kp/ko/great/constitution.php?4"
+  - "https://web.archive.org/web/20160923202851/http://www.naenara.com.kp/ko/great/constitution.php?5"
+  - "https://web.archive.org/web/20160923202905/http://www.naenara.com.kp/ko/great/constitution.php?6"
+  - "https://web.archive.org/web/20160923202924/http://www.naenara.com.kp/ko/great/constitution.php?7"
+  - "https://web.archive.org/web/20160923202938/http://www.naenara.com.kp/ko/great/constitution.php?8"
+  - "https://web.archive.org/web/20160923202958/http://www.naenara.com.kp/ko/great/constitution.php?9"
+  - "https://web.archive.org/web/20160923203013/http://www.naenara.com.kp/ko/great/constitution.php?10"
+  - "https://web.archive.org/web/20160923203031/http://www.naenara.com.kp/ko/great/constitution.php?11"
+  - "https://web.archive.org/web/20160923203046/http://www.naenara.com.kp/ko/great/constitution.php?12"
+  - "https://web.archive.org/web/20160923203105/http://www.naenara.com.kp/ko/great/constitution.php?13"
+  - "https://web.archive.org/web/20160923203126/http://www.naenara.com.kp/ko/great/constitution.php?14"
+  - "https://web.archive.org/web/20160923203141/http://www.naenara.com.kp/ko/great/constitution.php?15"
 publisher: "Naenara (Foreign Languages Publishing House, DPRK)"
 retrieved: 2026-10-13
 ---

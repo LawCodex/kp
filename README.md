@@ -34,8 +34,8 @@ most recent complete text that could be obtained from an official DPRK publicati
 - `naenara.com.kp` could not be reached directly at retrieval time (connection time-out), so the
   pages were taken from **Internet Archive (Wayback Machine) captures of 23 September 2016**, e.g.
   <https://web.archive.org/web/20160923202722/http://www.naenara.com.kp/ko/great/constitution.php?1>.
-  The archived URL of each page is recorded by `scripts/kp_fetch.py` (in `index.json` of the raw dir);
-  the first page's archived URL is in the front matter.
+  The archived URL of each of the 15 pages is listed in the front matter (`archived_sources`).
+
 - The current Naenara site (`/main/index/<lang>/politics?arg_val=constitution`) loads the text
   chapter by chapter via script; only the preamble of that version was archived, so it could not
   be used.
